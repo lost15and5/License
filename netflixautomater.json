@@ -1,9 +1,29 @@
 {
-    "PRIMEX-OWNER-001": {
-        "valid": true,
-        "customer-name": "Lost",
+    "PRIMEX-ICDL-YEX8-7ZTB": {
+        "valid": false,
+        "customer-name": "lost",
         "billing-date": "2026-03-14",
-        "next-billing-date": "2027-03-14",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": false,
+        "processor_id": "",
+        "serial_number": ""
+    },
+    "PRIMEX-AT2I-L646-GR30": {
+        "valid": true,
+        "customer-name": "dusty",
+        "billing-date": "2026-03-14",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
+    },
+    "PRIMEX-SKE0-CZO1-R37J": {
+        "valid": true,
+        "customer-name": "DUSTY",
+        "billing-date": "2026-03-14",
+        "next-billing-date": "9999-12-31",
         "lifetime": true,
         "universal-license": true,
         "processor_id": "",
