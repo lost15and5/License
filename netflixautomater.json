@@ -1,0 +1,12 @@
+{
+    "PRIMEX-OWNER-001": {
+        "valid": true,
+        "customer-name": "Lost",
+        "billing-date": "2026-03-14",
+        "next-billing-date": "2027-03-14",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
+    }
+}
