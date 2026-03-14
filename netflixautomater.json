@@ -10,7 +10,7 @@
         "serial_number": ""
     },
     "PRIMEX-AT2I-L646-GR30": {
-        "valid": true,
+        "valid": false,
         "customer-name": "dusty",
         "billing-date": "2026-03-14",
         "next-billing-date": "9999-12-31",
