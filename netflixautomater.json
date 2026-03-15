@@ -27,13 +27,22 @@
         "lifetime": true,
         "universal-license": true,
         "processor_id": "",
-        "serial_number": "",
-        "hwid": "e039a1984d8725c65790ef1f16e8f3984641b72474e70aed399d1e4803bdbe64"
+        "serial_number": ""
     },
     "PRIMEX-R6CV-9ZEW-IM1Z": {
         "valid": true,
         "customer-name": "LOST",
         "billing-date": "2026-03-14",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
+    },
+    "PRIMEX-06JT-38OS-1N6G": {
+        "valid": true,
+        "customer-name": "RUMMAN",
+        "billing-date": "2026-03-15",
         "next-billing-date": "9999-12-31",
         "lifetime": true,
         "universal-license": true,
