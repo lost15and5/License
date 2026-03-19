@@ -1,0 +1,12 @@
+{
+    "PRIMEX-C9C0-Y2IR-BU5R": {
+        "valid": true,
+        "customer-name": "Lost",
+        "billing-date": "2026-03-19",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
+    }
+}
