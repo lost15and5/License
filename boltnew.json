@@ -8,5 +8,15 @@
         "universal-license": true,
         "processor_id": "",
         "serial_number": ""
+    },
+    "PRIMEX-AJUV-DZZ2-TACF": {
+        "valid": true,
+        "customer-name": "LOS5",
+        "billing-date": "2026-03-20",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
     }
 }
