@@ -8,5 +8,15 @@
         "universal-license": true,
         "processor_id": "",
         "serial_number": ""
+    },
+    "PRIMEX-IMI0-2JWS-JIJ6": {
+        "valid": true,
+        "customer-name": "LOST",
+        "billing-date": "2026-03-23",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
     }
 }
