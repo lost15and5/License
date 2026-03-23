@@ -1,1 +1,12 @@
-
+{
+    "PRIMEX-PD85-D3XU-XGKF": {
+        "valid": true,
+        "customer-name": "LOST",
+        "billing-date": "2026-03-23",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
+    }
+}
