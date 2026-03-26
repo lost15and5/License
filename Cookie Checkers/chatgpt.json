@@ -18,5 +18,15 @@
         "universal-license": true,
         "processor_id": "",
         "serial_number": ""
+    },
+    "PRIMEX-5B7S-WN79-W9FE": {
+        "valid": true,
+        "customer-name": "LOST",
+        "billing-date": "2026-03-26",
+        "next-billing-date": "9999-12-31",
+        "lifetime": true,
+        "universal-license": true,
+        "processor_id": "",
+        "serial_number": ""
     }
 }
